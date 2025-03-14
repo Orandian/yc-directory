@@ -1,3 +1,4 @@
+/* eslint-disable @next/next/no-img-element */
 import { cn, formatDate } from "@/lib/utils";
 import { EyeIcon } from "lucide-react";
 import Image from "next/image";

@@ -1,3 +1,4 @@
+/* eslint-disable @next/next/no-img-element */
 import { formatDate } from "@/lib/utils";
 import { client } from "@/sanity/lib/client";
 import {
